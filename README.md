@@ -1,9 +1,9 @@
 # IJ Start Canon – Complete Setup Guide via ijstartcanon
-If you recently purchased a Canon printer, the easiest way to install and configure it is through ijstartcanon. This setup platform helps users download the correct printer drivers, connect their printer to WiFi, and complete the installation process quickly.
+If you recently purchased a Canon printer, the easiest way to install and configure it is through <a href="https://github.com/coraharper077/canon-printer-setups/">ij.start.canon</a>. This setup platform helps users download the correct printer drivers, connect their printer to WiFi, and complete the installation process quickly.
 
-Whether you are installing a new printer or reinstalling drivers, the ijstartcanon setup method ensures your printer works smoothly with your computer, laptop, or mobile device.
+Whether you are installing a new printer or reinstalling drivers, the ij start canon setup method ensures your printer works smoothly with your computer, laptop, or mobile device.
 
-What is ijstartcanon?
+What is ij start canon?
 
 ijstartcanon is the official setup process used to install Canon printers. It allows users to:
 
